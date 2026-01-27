@@ -1,171 +1,106 @@
 # Hi there, I'm Swasthika Rajendran! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst;Big+Data+Analytics+Graduate+Student+SDSU;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves building innovative projects and contributing to open source. I enjoy tackling challenging problems and learning new technologies.
+I am a Data Analyst with 8+ years of professional experience across banking, telecommunications, and insurance, and I am currently pursuing a Master’s degree in Big Data Analytics at San Diego State University. I specialize in SQL, Python, data modeling, and applied analytics, with a strong focus on translating complex datasets into actionable business insights. My interests lie in enterprise data management, analytics-driven decision support, and building scalable data solutions.
 
-- 🔭 I'm currently working on exciting projects
-- 🌱 I'm constantly learning and growing
-- 👯 I'm looking to collaborate on open source projects
-- 💬 Ask me about web development, coding, and tech
-- ⚡ Fun fact: I love turning ideas into reality through code
+## 🎓 Education
 
-## 📊 GitHub Stats
+**Master of Science – Big Data Analytics (Ongoing)**  
+*San Diego State University, CA, USA*  
+Expected Graduation: **May 2027**  
+- Coursework focuses on enterprise data management, statistical analysis, machine learning, and applied analytics  
+- Emphasis on SQL, Python-based data analysis, and real-world data-driven problem solving  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swasthi-raj&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swasthi-raj&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
-</div>
+**Master of Business Administration (MBA)**  
+*Vel Tech (Anna) University, Tamil Nadu, India*  
+2009 – 2011  
+- Concentration in business strategy, operations, and decision support  
+- Built strong foundation in management principles and analytical thinking  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swasthi-raj&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-</div>
+**Bachelor of Science – Mathematics**  
+*Ethiraj College, Madras University, Tamil Nadu, India*  
+2006 – 2009  
+- Strong grounding in statistics, probability, linear algebra, and mathematical reasoning  
+- Developed analytical and problem-solving skills essential for data analytics  
 
-## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 🛠️ Technical Skills
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Programming & Querying
+- **Python**, **SQL** (Joins, CTEs, Window Functions), **R**
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+### Data Analytics & Statistics
+- Data Cleaning & Wrangling  
+- Exploratory Data Analysis (EDA)  
+- Statistical Analysis  
+- Survival Analysis (Kaplan–Meier, Cox Proportional Hazards)
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Data Visualization & Reporting
+- Tableau  
+- M
 
-## 🎯 Featured Projects
+## 📌 Featured Projects
 
-<!-- You can customize this section with your actual projects -->
+### 🔐 Enterprise Cybersecurity Database & Analytics System
+**Tools:** SQL, Python, MySQL, AWS RDS  
 
-<table>
-<tr>
-<td width="50%">
+- Designed and implemented a **14-table relational database** to support Security Operations Center (SOC) incident and threat intelligence workflows.  
+- Developed complex **SQL queries**, views, stored procedures, triggers, and indexes for efficient incident analysis and reporting.  
+- Built Python-based analytics to evaluate threat patterns, incident severity, response timelines, and network activity.  
+- Deployed the solution on **AWS RDS**, applying enterprise database management and optimization techniques.
 
-### 🌟 Project 1
-[![Repo](https://img.shields.io/badge/Repo-View%20on%20GitHub-blue?style=for-the-badge&logo=github)](https://github.com/swasthi-raj/project1)
-
-**Tech Stack:** React, Node.js, MongoDB
-
-A brief description of what this project does and why it's awesome. Highlight key features and technologies used.
-
-- ✨ Feature 1
-- 🚀 Feature 2
-- 💡 Feature 3
-
-</td>
-<td width="50%">
-
-### 🌟 Project 2
-[![Repo](https://img.shields.io/badge/Repo-View%20on%20GitHub-blue?style=for-the-badge&logo=github)](https://github.com/swasthi-raj/project2)
-
-**Tech Stack:** Python, Flask, PostgreSQL
-
-Another amazing project showcasing your skills. Describe what makes this project special and what problems it solves.
-
-- ✨ Feature 1
-- 🚀 Feature 2
-- 💡 Feature 3
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌟 Project 3
-[![Repo](https://img.shields.io/badge/Repo-View%20on%20GitHub-blue?style=for-the-badge&logo=github)](https://github.com/swasthi-raj/project3)
-
-**Tech Stack:** Next.js, TypeScript, Tailwind
-
-Describe this project and its impact. What did you learn? What challenges did you overcome?
-
-- ✨ Feature 1
-- 🚀 Feature 2
-- 💡 Feature 3
-
-</td>
-<td width="50%">
-
-### 🌟 Project 4
-[![Repo](https://img.shields.io/badge/Repo-View%20on%20GitHub-blue?style=for-the-badge&logo=github)](https://github.com/swasthi-raj/project4)
-
-**Tech Stack:** Django, React, AWS
-
-Your fourth amazing project. Showcase what you've built and the technologies you used.
-
-- ✨ Feature 1
-- 🚀 Feature 2
-- 💡 Feature 3
-
-</td>
-</tr>
-</table>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swasthi-raj&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=swasthi-raj&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
-## 📫 Connect With Me
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swasthi-raj)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/swasthi-raj)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://swasthi-raj.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
-
-## 💻 Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+🔗 **Repository:** https://github.com/swasthi-raj/Enterprise-Cybersecurity-Analysis
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=swasthi-raj&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-</div>
+### 📊 Small Business Survival Analysis (Spark4Change)
+**Tools:** Python, Pandas, NumPy, SciPy, Lifelines, Tableau  
 
-<div align="center">
-  
-### Show some ❤️ by starring some of the repositories!
+- Analyzed **400,000+ small business records** spanning 35 years (1990–2024) to study business longevity and closure patterns.  
+- Performed extensive data cleaning, deduplication, feature engineering, and exploratory data analysis (EDA).  
+- Built **Kaplan–Meier survival curves** and **Cox Proportional Hazards models** to quantify industry-specific closure risks (2–3× variation across sectors).  
+- Created interactive **Tableau dashboards** and a public-facing web platform to communicate insights to non-technical stakeholders.
 
-</div>
+🔗 **Project Website:** https://spark4change-project.github.io
+
+## 💼 Professional Experience
+
+### Strategic Business Analyst  
+**TATA AIA** | Chennai, India  
+*Jul 2019 – Nov 2022*  
+
+- Delivered sales analytics and KPI reporting (revenue, funnel performance, win rate, quota attainment) using Excel, Tableau, and BI tools.  
+- Supported executive decision-making through QBR decks, partner-wise performance summaries, and ad-hoc analytics.  
+- Conducted competitive benchmarking, market analysis, and business case development for expansion and go-to-market initiatives.  
+- Coordinated with regional sales heads to track incentives, territory alignment, and sales contests.  
+- Provided data-driven insights for strategic planning and “what-if” scenario analysis.
+
+---
+
+### Business Analyst  
+**Airtel** | Chennai, India  
+*May 2013 – Jan 2016*  
+
+- Tracked and analyzed KPIs including sales volume, revenue, conversion rates, churn, and activation metrics across regions and partners.  
+- Built dashboards and reports for sales leaders to identify underperforming regions and improvement opportunities.  
+- Performed target vs. achievement analysis to support incentive and bonus calculations.  
+- Recommended process improvements through data-backed insights and automation opportunities.
+
+---
+
+### Operations Administrator  
+**Royal Bank of Scotland** | Chennai, India  
+*Apr 2011 – May 2013*  
+
+- Processed and validated high-volume banking transactions, ensuring accuracy and compliance.  
+- Generated daily, weekly, and monthly operational reports using Excel and database tools.  
+- Supported reconciliations and operational analysis to improve efficiency and reduce errors.
+
+
+
+
