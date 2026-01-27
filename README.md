@@ -42,7 +42,26 @@ Expected Graduation: **May 2027**
 
 ### Data Visualization & Reporting
 - Tableau  
-- M
+- Microsoft Excel (Pivot Tables, Advanced Formulas)
+
+### Databases & Data Engineering
+- MySQL  
+- AWS RDS  
+- Database Design & Normalization  
+- Stored Procedures, Triggers, Indexing
+
+### Libraries & Frameworks
+- Pandas  
+- NumPy  
+- SciPy  
+- Lifelines  
+- Matplotlib  
+- SQLAlchemy
+
+### Domain Knowledge
+- Banking  
+- Insurance  
+- Telecommunications
 
 ## 📌 Featured Projects
 
