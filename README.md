@@ -6,17 +6,20 @@
 
 ## 🚀 About Me
 
-I am a Data Analyst with 8+ years of professional experience across banking, telecommunications, and insurance, and I am currently pursuing a Master’s degree in Big Data Analytics at San Diego State University. I specialize in SQL, Python, data modeling, and applied analytics, with a strong focus on translating complex datasets into actionable business insights. My interests lie in enterprise data management, analytics-driven decision support, and building scalable data solutions.
+I am a Data Scientist with 10+ years of experience delivering data-driven solutions across banking, telecommunications, insurance, and
+research. Skilled in Python, SQL, machine learning, predictive analytics, statistical analysis, and feature engineering, with experience
+developing end-to-end analytical and machine learning solutions. Currently conducting research at San Diego State University in
+machine learning, deep learning, computer vision, and image segmentation.
 
 ## 🎓 Education
 
 **Master of Science – Big Data Analytics (Ongoing)**  
 *San Diego State University, CA, USA*  
-Expected Graduation: **May 2027**  
+Expected Graduation: **Dec 2026**  
 - Coursework focuses on enterprise data management, statistical analysis, machine learning, and applied analytics  
 - Emphasis on SQL, Python-based data analysis, and real-world data-driven problem solving  
 
-**Master of Business Administration (MBA)**  
+**Master of Business Administration (MBA) - MIS**  
 *Vel Tech (Anna) University, Tamil Nadu, India*  
 2009 – 2011  
 - Concentration in business strategy, operations, and decision support  
@@ -89,7 +92,7 @@ Expected Graduation: **May 2027**
 
 ## 💼 Professional Experience
 
-### Strategic Business Analyst  
+### Assistant Manager - Data Analytics
 **TATA AIA** | Chennai, India  
 *Jul 2019 – Nov 2022*  
 
@@ -103,7 +106,7 @@ Expected Graduation: **May 2027**
 
 ### Business Analyst  
 **Airtel** | Chennai, India  
-*May 2013 – Jan 2016*  
+*May 2013 – Jun 2019*  
 
 - Tracked and analyzed KPIs including sales volume, revenue, conversion rates, churn, and activation metrics across regions and partners.  
 - Built dashboards and reports for sales leaders to identify underperforming regions and improvement opportunities.  
