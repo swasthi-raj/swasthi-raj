@@ -1,127 +1,56 @@
-# Hi there, I'm Swasthika Rajendran! 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst;Big+Data+Analytics+Graduate+Student+SDSU;Always+Learning+New+Things" alt="Typing SVG" />
+
+<img src="assets/banner.svg" alt="Swasthika Rajendran, Data Analyst" width="100%">
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swasthika-rajendran)
+![Location](https://img.shields.io/badge/Reno%2C%20NV-0f2744?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Open to work](https://img.shields.io/badge/Open%20to%20Data%20Analyst%20roles-16a34a?style=for-the-badge)
+
+<br>
+
+<img src="assets/kpis.svg" alt="Key numbers" width="100%">
+
 </div>
 
-## 🚀 About Me
+<br>
 
-I am a Data Scientist with 10+ years of experience delivering data-driven solutions across banking, telecommunications, insurance, and
-research. Skilled in Python, SQL, machine learning, predictive analytics, statistical analysis, and feature engineering, with experience
-developing end-to-end analytical and machine learning solutions. Currently conducting research at San Diego State University in
-machine learning, deep learning, computer vision, and image segmentation.
+## About me
 
-## 🎓 Education
+I turn policy, claims and street level data into clear reports and decisions. I have 10+ years of experience across insurance and business intelligence, and I am finishing my M.S. in Big Data Analytics at San Diego State University in December 2026.
 
-**Master of Science – Big Data Analytics (Ongoing)**  
-*San Diego State University, CA, USA*  
-Expected Graduation: **Dec 2026**  
-- Coursework focuses on enterprise data management, statistical analysis, machine learning, and applied analytics  
-- Emphasis on SQL, Python-based data analysis, and real-world data-driven problem solving  
+| Focus | What I do |
+| :--- | :--- |
+| **Insurance analytics** | Policy, claims and premium reporting, data validation, requirements and source to target mapping |
+| **Dashboards** | Power BI, Tableau, Excel and Streamlit |
 
-**Master of Business Administration (MBA) - MIS**  
-*Vel Tech (Anna) University, Tamil Nadu, India*  
-2009 – 2011  
-- Concentration in business strategy, operations, and decision support  
-- Built strong foundation in management principles and analytical thinking  
+<br>
 
-**Bachelor of Science – Mathematics**  
-*Ethiraj College, Madras University, Tamil Nadu, India*  
-2006 – 2009  
-- Strong grounding in statistics, probability, linear algebra, and mathematical reasoning  
-- Developed analytical and problem-solving skills essential for data analytics  
+## Skills
 
+<img src="assets/skills.svg" alt="Skills dashboard" width="100%">
 
-## 🛠️ Technical Skills
+<br>
 
-### Programming & Querying
-- **Python**, **SQL** (Joins, CTEs, Window Functions), **R**
+## Career timeline
 
-### Data Analytics & Statistics
-- Data Cleaning & Wrangling  
-- Exploratory Data Analysis (EDA)  
-- Statistical Analysis  
-- Survival Analysis (Kaplan–Meier, Cox Proportional Hazards)
+| Years | Role | Focus |
+| :--- | :--- | :--- |
+| 2025 to now | Graduate Research Assistant, SDSU MOCL Lab | Research, geospatial analysis, dashboards |
+| 2019 to 2022 | Assistant Manager, Data Analytics and MIS, TATA AIA Life Insurance | Power BI, requirements, UAT, team of four |
+| 2013 to 2019 | Business Intelligence Analyst, RKC (motor insurance) | SQL, KPI dashboards, report automation |
+| 2011 to 2013 | Administrator, Royal Bank of Scotland | UK Motor and Home insurance data, reconciliation |
 
-### Data Visualization & Reporting
-- Tableau  
-- Microsoft Excel (Pivot Tables, Advanced Formulas)
+<br>
 
-### Databases & Data Engineering
-- MySQL  
-- AWS RDS  
-- Database Design & Normalization  
-- Stored Procedures, Triggers, Indexing
+<div align="center">
 
-### Libraries & Frameworks
-- Pandas  
-- NumPy  
-- SciPy  
-- Lifelines  
-- Matplotlib  
-- SQLAlchemy
+**Open to data analyst roles in insurance, government and urban analytics.**
 
-### Domain Knowledge
-- Banking  
-- Insurance  
-- Telecommunications
+[Connect with me on LinkedIn](https://linkedin.com/in/swasthika-rajendran)
 
-## 📌 Featured Projects
-
-### 🔐 Enterprise Cybersecurity Database & Analytics System
-**Tools:** SQL, Python, MySQL, AWS RDS  
-
-- Designed and implemented a **14-table relational database** to support Security Operations Center (SOC) incident and threat intelligence workflows.  
-- Developed complex **SQL queries**, views, stored procedures, triggers, and indexes for efficient incident analysis and reporting.  
-- Built Python-based analytics to evaluate threat patterns, incident severity, response timelines, and network activity.  
-- Deployed the solution on **AWS RDS**, applying enterprise database management and optimization techniques.
-
-🔗 **Repository:** https://github.com/swasthi-raj/Enterprise-Cybersecurity-Analysis
-
----
-
-### 📊 Small Business Survival Analysis (Spark4Change)
-**Tools:** Python, Pandas, NumPy, SciPy, Lifelines, Tableau  
-
-- Analyzed **400,000+ small business records** spanning 35 years (1990–2024) to study business longevity and closure patterns.  
-- Performed extensive data cleaning, deduplication, feature engineering, and exploratory data analysis (EDA).  
-- Built **Kaplan–Meier survival curves** and **Cox Proportional Hazards models** to quantify industry-specific closure risks (2–3× variation across sectors).  
-- Created interactive **Tableau dashboards** and a public-facing web platform to communicate insights to non-technical stakeholders.
-
-🔗 **Project Website:** https://spark4change-project.github.io
-
-## 💼 Professional Experience
-
-### Assistant Manager - Data Analytics
-**TATA AIA** | Chennai, India  
-*Jul 2019 – Nov 2022*  
-
-- Delivered sales analytics and KPI reporting (revenue, funnel performance, win rate, quota attainment) using Excel, Tableau, and BI tools.  
-- Supported executive decision-making through QBR decks, partner-wise performance summaries, and ad-hoc analytics.  
-- Conducted competitive benchmarking, market analysis, and business case development for expansion and go-to-market initiatives.  
-- Coordinated with regional sales heads to track incentives, territory alignment, and sales contests.  
-- Provided data-driven insights for strategic planning and “what-if” scenario analysis.
-
----
-
-### Business Analyst  
-**Airtel** | Chennai, India  
-*May 2013 – Jun 2019*  
-
-- Tracked and analyzed KPIs including sales volume, revenue, conversion rates, churn, and activation metrics across regions and partners.  
-- Built dashboards and reports for sales leaders to identify underperforming regions and improvement opportunities.  
-- Performed target vs. achievement analysis to support incentive and bonus calculations.  
-- Recommended process improvements through data-backed insights and automation opportunities.
-
----
-
-### Operations Administrator  
-**Royal Bank of Scotland** | Chennai, India  
-*Apr 2011 – May 2013*  
-
-- Processed and validated high-volume banking transactions, ensuring accuracy and compliance.  
-- Generated daily, weekly, and monthly operational reports using Excel and database tools.  
-- Supported reconciliations and operational analysis to improve efficiency and reduce errors.
+</div>
 
 
 
