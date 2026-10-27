@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230" role="img" aria-label="Swasthika Rajendran, Data Analyst">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f2744"/><stop offset="1" stop-color="#0e6b72"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#5eead4" stop-opacity="0.25"/><stop offset="1" stop-color="#5eead4" stop-opacity="0.9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="230" rx="14" fill="url(#bg)"/>
+  <g opacity="0.12" stroke="#ffffff">
+    <path d="M0 60H1000M0 115H1000M0 170H1000"/>
+  </g>
+  <g fill="url(#bar)">
+    <rect x="640" y="150" width="34" height="50" rx="4"/>
+    <rect x="684" y="120" width="34" height="80" rx="4"/>
+    <rect x="728" y="135" width="34" height="65" rx="4"/>
+    <rect x="772" y="90" width="34" height="110" rx="4"/>
+    <rect x="816" y="105" width="34" height="95" rx="4"/>
+    <rect x="860" y="60" width="34" height="140" rx="4"/>
+    <rect x="904" y="40" width="34" height="160" rx="4"/>
+  </g>
+  <polyline points="657,140 701,110 745,125 789,80 833,95 877,50 921,30" fill="none" stroke="#fbbf24" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+  <g fill="#fbbf24"><circle cx="657" cy="140" r="4.5"/><circle cx="701" cy="110" r="4.5"/><circle cx="745" cy="125" r="4.5"/><circle cx="789" cy="80" r="4.5"/><circle cx="833" cy="95" r="4.5"/><circle cx="877" cy="50" r="4.5"/><circle cx="921" cy="30" r="4.5"/></g>
+  <text x="48" y="92" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff">Swasthika Rajendran</text>
+  <text x="48" y="132" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#a7f3d0">Data Analyst  |  SQL  |  Power BI  |  Python</text>
+  <text x="48" y="168" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#e2e8f0">Insurance analytics and business intelligence</text>
+  <text x="48" y="196" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#94a3b8">M.S. Big Data Analytics, San Diego State University  |  Reno, NV</text>
+</svg>
