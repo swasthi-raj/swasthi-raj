@@ -22,7 +22,7 @@ I turn policy, claims and street level data into clear reports and decisions. I 
 
 | Focus | What I do |
 | :--- | :--- |
-| **Insurance analytics** | Policy, claims and premium reporting, data validation, requirements and source to target mapping |
+| **Data Analytics** | Policy, claims and premium reporting, data validation, requirements and source to target mapping |
 | **Dashboards** | Power BI, Tableau, Excel and Streamlit |
 
 <br>
@@ -38,15 +38,15 @@ I turn policy, claims and street level data into clear reports and decisions. I 
 | Years | Role | Focus |
 | :--- | :--- | :--- |
 | 2025 to now | Graduate Research Assistant, SDSU MOCL Lab | Research, geospatial analysis, dashboards |
-| 2019 to 2022 | Assistant Manager, Data Analytics and MIS, TATA AIA Life Insurance | Power BI, requirements, UAT, team of four |
-| 2013 to 2019 | Business Intelligence Analyst, RKC (motor insurance) | SQL, KPI dashboards, report automation |
-| 2011 to 2013 | Administrator, Royal Bank of Scotland | UK Motor and Home insurance data, reconciliation |
+| 2019 to 2022 | Assistant Manager, Data Analytics and MIS, TATA AIA Life Insurance | Power BI, requirements, SQL, Team of 4 |
+| 2013 to 2019 | Business Intelligence Analyst, RKC (Bharti Airtel) | SQL, KPI dashboards, report automation |
+| 2011 to 2013 | Administrator, Royal Bank of Scotland | Banking, reconciliation |
 
 <br>
 
 <div align="center">
 
-**Open to data analyst roles in insurance, government and urban analytics.**
+**Open to AI/ML Roles.**
 
 [Connect with me on LinkedIn](https://linkedin.com/in/swasthika-rajendran)
 
